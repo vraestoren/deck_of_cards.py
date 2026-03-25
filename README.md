@@ -1,6 +1,6 @@
-# deck_of_cards.py
+# <img src="https://deckofcardsapi.com/static/img/favicon/android-chrome-192x192.png" width="28" style="vertical-align:middle;" /> deck_of_cards.py
 
-> Unofficial Python wrapper for [deckofcardsapi.com](http://deckofcardsapi.com) — simulate a full deck of cards in your projects with ease.
+> Web-API for [deckofcardsapi.com](http://deckofcardsapi.com) simulate a full deck of cards in your projects with ease.
 
 ---
 
