@@ -23,10 +23,10 @@ print(hand)
 
 ## Features
 
-- 🃏 **Decks** — shuffle, create, reshuffle, partial decks with jokers
-- 🎴 **Drawing** — draw from top, bottom, or at random
-- 📦 **Piles** — create named piles, shuffle them, draw from them
-- ♻️ **Return** — send cards back to the deck
+- **Decks** - shuffle, create, reshuffle, partial decks with jokers
+- **Drawing** - draw from top, bottom, or at random
+- **Piles** - create named piles, shuffle them, draw from them
+- **Return** - send cards back to the deck
 
 ---
 
